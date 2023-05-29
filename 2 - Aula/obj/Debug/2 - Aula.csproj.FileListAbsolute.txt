@@ -1,0 +1,11 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\bin\Debug\2 - Aula.exe.config
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\bin\Debug\2 - Aula.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\bin\Debug\2 - Aula.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\_2___Aula.Form1.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\_2___Aula.Properties.Resources.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.csproj.GenerateResource.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\2 - Aula\2 - Aula\obj\Debug\2 - Aula.pdb
