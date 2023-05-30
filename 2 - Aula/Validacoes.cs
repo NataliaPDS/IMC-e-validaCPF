@@ -7,7 +7,7 @@ public class Validacoes
 { 
     public static bool ValidaCPF(string cpf)
     {
-
+        //alteração para verificar git ou github
         //primeira parte - tirar pontos e traços
         cpf = cpf.Replace(".", "");//remove ponto do cpf
         cpf = cpf.Replace("-", "");
